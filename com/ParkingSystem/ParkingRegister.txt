@@ -1,0 +1,8 @@
+Owner Name: fgf
+Type of Vehicle: car
+Vehicle Name: fbf
+Vehicle Number: 56
+Mobile Number: 56
+Age: 56
+Charge: 56.0
+Slot: 1
